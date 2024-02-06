@@ -6,15 +6,15 @@ Write a command-line application to generate a professional quality README from 
 
 The README must include the following sections:
 
-• Title
-• Description
-• Table of Contents
-• Installation
-• Usage
-• License
-• Contributing
-• Tests
-• Questions
+* Title
+* Description
+* Table of Contents
+* Installation
+* Usage
+* License
+* Contributing
+* Tests
+* Questions
 
 ### Tasks completed
 

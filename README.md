@@ -42,7 +42,7 @@ Type 'node index.js' into the terminal and fill in requested information.
 
 The following video shows the application's appearance and functionality:
 
-![Walkthrough Video](./images/Module11_Challenge.mp4)
+https://youtu.be/TSJCAvsLWtw
 
 ## Credits
 

@@ -46,7 +46,7 @@ https://youtu.be/TSJCAvsLWtw
 
 ## Credits
 
-Supported by Edx teaching staff and particularly Juan Delgado:
+Supported by Edx teaching staff and particularly Juan Delgado.
 
 ## License
 
